@@ -4,7 +4,7 @@ date: 2024-07-04
 category:
   - Java
 tag:
-  - Java
+  - JVM
 ---
 
 
