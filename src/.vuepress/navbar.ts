@@ -11,4 +11,12 @@ export default navbar([
             {text: "API", icon: "pen-to-square", link: "API"}
         ]
     },
+    {
+        text:"utils",
+        icon: "pen-to-square",
+        prefix:"/note/utils",
+        children:[
+            {text: "CRON", icon: "pen-to-square", link: "CRON"}
+        ]
+    }
 ]);

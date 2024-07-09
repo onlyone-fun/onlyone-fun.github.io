@@ -1,5 +1,5 @@
 ---
-title: Java笔记
+title: Java
 date: 2024-07-04
 index: false
 icon: laptop-code
